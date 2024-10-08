@@ -33,7 +33,7 @@ Si deseas contribuir a este repositorio, siéntete libre de abrir un *issue* o e
 
 ## Contacto
 
-Para cualquier pregunta o comentario, puedes contactarme en p.aixela93@gmail.com (mailto:p.aixela93@gmail.com).
+Para cualquier pregunta o comentario, puedes contactarme en p.aixela93@gmail.com.
 
 ¡Espero que encuentres útil este repositorio y que te ayude en tu propio viaje de aprendizaje en programación!
 
