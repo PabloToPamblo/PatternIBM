@@ -17,9 +17,9 @@ El contenido está organizado en carpetas divididas por módulos, lo que facilit
     - Estructuras de desarrollo (AGILE, SCRUM...)
 
 - **Módulo 2: LinuxCommands & ShellScripting**
-    -History
-    -Commands
-    -Shell Scripting
+    - History
+    - Commands
+    - Shell Scripting
   
 - **Módulo 3: Git&Github**
   - Fundamentals
