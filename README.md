@@ -1,40 +1,41 @@
-# Resumen del Curso de Programación
+# Programming Course Summary
 
-¡Bienvenido a mi repositorio! Soy **Pablo Aixela** y aquí comparto el resumen de todo lo que he aprendido durante 6 meses en mi curso de programación. Este repositorio tiene como objetivo ayudar a otros a acceder a la información y recursos que he recopilado a lo largo de mi aprendizaje.
+Welcome to my repository! I’m **Pablo Aixela**, and here I share a summary of everything I’ve learned over 6 months in my programming course. This repository aims to help others access the information and resources I’ve gathered throughout my learning journey.
 
-## Estructura del Repositorio
+## Repository Structure
 
-El contenido está organizado en carpetas divididas por módulos, lo que facilita la navegación y el acceso a los temas específicos. Cada carpeta incluye:
+The content is organized into folders divided by modules, making it easy to navigate and access specific topics. Each folder includes:
 
-- Resúmenes de las lecciones
-- Glosarios cmd
-- Recursos adicionales
+- Lesson summaries
+- Command glossaries
+- Additional resources
 
-### Módulos Incluidos
+### Included Modules
 
-- **Módulo 1: Introducción_Ingeniería_software**
-    - Procesos de Desarrollo/Analisis de projectos
-    - Estructuras de desarrollo (AGILE, SCRUM...)
+- **Module 1: Software_Engineering_Introduction**
+    - Development processes / Project analysis
+    - Development structures (AGILE, SCRUM...)
 
-- **Módulo 2: LinuxCommands & ShellScripting**
+- **Module 2: LinuxCommands & ShellScripting**
     - History
     - Commands
     - Shell Scripting
   
-- **Módulo 3: Git&Github**
+- **Module 3: Git&Github**
   - Fundamentals
-  - Glosary Commands
-  - PullRequest, Forks...
+  - Command Glossary
+  - Pull Requests, Forks...
   
 
-## Cómo Contribuir
+## How to Contribute
 
-Si deseas contribuir a este repositorio, siéntete libre de abrir un *issue* o enviar un *pull request*. Cualquier mejora o sugerencia será muy apreciada.
+If you’d like to contribute to this repository, feel free to open an *issue* or submit a *pull request*. Any improvements or suggestions are very welcome.
 
-## Contacto
+## Contact
 
-Para cualquier pregunta o comentario, puedes contactarme en p.aixela93@gmail.com.
+For any questions or comments, you can reach me at p.aixela93@gmail.com.
 
-¡Espero que encuentres útil este repositorio y que te ayude en tu propio viaje de aprendizaje en programación!
+I hope you find this repository useful and that it supports you in your own programming learning journey!
 
 ---
+
